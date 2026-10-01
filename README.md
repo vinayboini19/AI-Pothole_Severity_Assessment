@@ -37,11 +37,7 @@ Small / Medium / Large
      ↓
 Detection Image + Results Table
 ## Application Screenshots
-
 ### Streamlit Application
-
 ![Streamlit Application](App_interface.png)
-
 ### Pothole Detection and Results
-
 ![Pothole Detection and Results](Detection_and_Result.png)
